@@ -5,6 +5,7 @@ public class VersC {
 		// TODO Auto-generated method stub
 		//Com
 		int i=0;
+		System.out.print("Introduce opción");
 	}
 
 }
