@@ -7,6 +7,7 @@ public class VersC {
 		int i=0;
 		System.out.print("Introduce opción");
 		float a=15;
+		//Ahora habría que...
 		
 	}
 
